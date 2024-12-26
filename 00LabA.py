@@ -33,6 +33,7 @@ x = float(x)
 print(type(x))
 print(x)
 
+#TODO Operators
 # + - * / % ** //
 # += -= (no ++ 🥲)
 # >= <= == != < >
