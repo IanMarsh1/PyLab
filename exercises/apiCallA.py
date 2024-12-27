@@ -36,12 +36,12 @@ def main():
     temp = get_posts(tempURI)
     loc = get_posts(locURI)
     
-    # convert data type to sring so it can be printed and get the values from the dictionary I want
+    # convert data type to sting so it can be printed and get the values from the dictionary I want
     # note: this is not the best way to do this
     temp = str(temp['properties']['temperature']['value'])
     loc = str(loc['properties']['name'])
     
-    print("The temperature in " + loc + " is " + temp + "C")
+    print("The temperature at " + loc + " is " + temp + "C")
         
 if __name__ == '__main__':
     main()
