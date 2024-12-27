@@ -10,8 +10,6 @@ num1 = int(input("Enter a number1: "))
 num2 = int(input("Enter a number2: "))
 num3 = 6.8
 
-print(type(num1))
-
 if num1 > num2:
     print("hello")
 
