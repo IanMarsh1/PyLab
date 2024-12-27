@@ -1,4 +1,3 @@
-package labs;
 public class lab03A {
     public static long compute() {
         // Example task: Sum of numbers from 1 to 100 million
