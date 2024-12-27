@@ -38,7 +38,7 @@ userInputWhile = 10
 i = 0
 
 while i < userInputWhile:
-    print("iteam" + str(i))
+    print("item" + str(i))
     i += 1
 
 
@@ -48,7 +48,7 @@ while i < userInputWhile:
 userInputFor = 10
 
 for j in range(0, userInputFor):
-    print("iteam" + str(j))
+    print("item" + str(j))
     pass
 
 
