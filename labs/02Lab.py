@@ -16,6 +16,14 @@ def isEven(number):
 
 print(isEven(2))
 
-#TODO 
+#TODO import a function
+import mathFunctions
+
+print(mathFunctions.retunrPow(2, 4))
+
+PI = mathFunctions.returnPI()
+print(PI)
+
+
 
 print('\n\n')
