@@ -40,8 +40,9 @@ def main():
     # note: this is not the best way to do this
     temp = str(temp['properties']['temperature']['value'])
     loc = str(loc['properties']['name'])
-    
+    print()
     print("The temperature at " + loc + " is " + temp + "C")
+    print()
         
 if __name__ == '__main__':
     main()

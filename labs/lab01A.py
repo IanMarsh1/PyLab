@@ -49,7 +49,6 @@ userInputFor = 10
 
 for j in range(0, userInputFor):
     print("item" + str(j))
-    pass
 
 
 

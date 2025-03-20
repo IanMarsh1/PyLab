@@ -6,19 +6,51 @@ print('\n\nOutput:\n-----------------')
 # >= <= == != < >
 # and or not
 
-num1 = int(input("Enter a number1: "))
-num2 = int(input("Enter a number2: "))
-num3 = 6.8
-
-if num1 > num2:
-    print("hello")
-
-
-
-
 
 #TODO while loop 
 
+userInput = 10
+i = 1
+
+while i <= userInput:
+
+
+
+
+
+
+
+    print("Item " + str(i))
+    i = i + 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #TODO for loop 
+
+
+
+
+
+
+
+
+
+
+
+
 
 print('\n\n')
